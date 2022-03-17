@@ -1,2 +1,2 @@
 # HelloWord-SmartContract
-Blokchain by Blockgames
+Blockchain by Blockgames
