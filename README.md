@@ -1,2 +1,2 @@
-# HelloWord-SmartContract
-Blockchain by Blockgames
+//Contact Address
+0x8bb7d6da8e5cf102ef3e8c69ff7182473d76c1fc
